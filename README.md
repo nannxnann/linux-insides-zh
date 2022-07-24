@@ -4,7 +4,7 @@
 
 一系列关于 Linux 内核和其内在机理的帖子。
 
-**目的很简单** - 分享我对 Linux 内核内在机理的一点知识，帮助对 Linux 内核内在机理感兴趣的人，和其他低级话题。
+**目的很简单** - 分享我对 Linux 内核机理的一些浅见，帮助读者理解 Linux 内核机理和其他底层内容。
 
 **问题/建议**: 若有相关问题，请提交 issue。英文原文问题，找上游 repo - [linux-insides](https://github.com/0xAX/linux-insides) 提交 issue；翻译问题，在下游 repo - [linux-insides-zh](https://github.com/MintCN/linux-insides-zh) 中提交 issue。
 
@@ -45,7 +45,7 @@
 |├ [3.0](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/README.md)|[@littleneko](https://github.com/littleneko)|更新至[57279321](https://github.com/0xAX/linux-insides/commit/5727932167a2ff6a1e647081c85d081d4ed8b508)|
 |├ [3.1](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-1.md)|[@Albertchamberlain](https://github.com/Albertchamberlain)|更新至[e58c06bf](https://github.com/0xAX/linux-insides/commit/e58c06bfca60d4af25d92562de1ee9959992fc68)|
 |├ [3.2](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-2.md)|[@narcijie](https://github.com/narcijie)|更新至[4d635117](https://github.com/0xAX/linux-insides/commit/4d6351172486e5c046a7d3db2286fc0d0d0d7789)|
-|├ [3.3](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-3.md)||未开始|
+|├ [3.3](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-3.md)|[@weijiew](https://github.com/weijiew)|正在进行|
 |├ [3.4](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-4.md)||未开始|
 |├ [3.5](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-5.md)||未开始|
 |├ [3.6](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-6.md)||未开始|
